@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mariano Colman</h1>
-<h3 align="center">A guy who likes programming in Python from Argentina</h3>
+<h3 align="center">A guy who likes programming in Python from Argentina 🇦🇷</h3>
 
 - 🔭 I’m currently working in **Globant**
 
@@ -9,8 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="marianocolman" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/marianocolman?trk=profile-badge">Mariano Colman</a></div>
 <a href="https://linkedin.com/in/marianocolman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mariano colman" height="30" width="40" /></a>
 </p>
 
