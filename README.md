@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mariano Colman</h1>
 <h3 align="center">A guy who likes programming in Python from Argentina 🇦🇷</h3>
 
-- 🔭 I’m currently working in **Globant**
+- 🔭 I’m currently working in **Globant as Data Architect**
 
 - 🌱 I’m currently learning **differents Frameworks for Big Data (Hadoop, Spark) and some interesting things about Cloud Computing**
 
